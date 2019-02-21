@@ -1,0 +1,10 @@
+D:\Projects\MultitaskTimer\MultitaskTimer\bin\Release\MultitaskTimer.exe.config
+D:\Projects\MultitaskTimer\MultitaskTimer\bin\Release\MultitaskTimer.exe
+D:\Projects\MultitaskTimer\MultitaskTimer\bin\Release\MultitaskTimer.pdb
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.Form1.resources
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.Properties.Resources.resources
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.csproj.GenerateResource.cache
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.csproj.CoreCompileInputs.cache
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.exe
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.pdb
+D:\Projects\MultitaskTimer\MultitaskTimer\obj\Release\MultitaskTimer.csprojAssemblyReference.cache
